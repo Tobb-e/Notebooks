@@ -15,3 +15,5 @@ Click the link(s) to download
 * [Dreamlike Photoreal v2.0](https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0/blob/main/dreamlike-photoreal-2.0.safetensors)
 * [Realistic Vision v2.0](https://huggingface.co/ckpt/realistic-vision-v20/blob/main/realisticVisionV20_v20.safetensors)
 * [F222](https://huggingface.co/acheong08/f222/blob/main/f222.safetensors)
+
+A good upscaler to use is [4x Upscaler](https://huggingface.co/stabilityai/stable-diffusion-x4-upscaler)
